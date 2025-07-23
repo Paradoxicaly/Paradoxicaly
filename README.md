@@ -1,74 +1,58 @@
-<h1 align="center">Hi, I'm Derrick (Tomato_Cultivator) 🍅</h1>
+<h1 align="center">Hey, I'm Paradoxicaly 👋</h1>
 
 <p align="center">
-  🚀 Competitive Programmer | 🏊‍♂️ Swimmer
-  <br>
-  🎓 Highly Regarded Crashout!!
+  🍅 Competitive Programmer • 🏊 Swimmer 
 </p>
 
 ---
 
-### 🔥 I'm currently into:
-
-- Competitive Programming 
-- Building Tools & Scripts for Competitive CP
-- Open Source + CS Theory
-
----
-
-### 🔗 Connect with me:
-
-<p align="left">
-  <a href="https://codeforces.com/profile/Tomato_Cultivator" target="_blank">
-    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-Tomato_Cultivator-blue?style=for-the-badge&logo=codeforces" />
-  </a>
-  <a href="https://www.linkedin.com/in/derrick-kwan-5644b52b9/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Derrick%20Kwan-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.swimcloud.com/swimmer/2799094/" target="_blank">
-    <img alt="SwimCloud" src="https://img.shields.io/badge/SwimCloud-Profile-lightblue?style=for-the-badge" />
-  </a>
-</p>
+### 🔥 What I'm into:
+- Competitive Programming
+- Optimization and Theory
+- Open Source & CP tooling
+- Swim practice between code sessions 🏊‍♂️
 
 ---
 
-### 💻 Languages & Tools I Use:
+### 🌍 Find me online:
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Tomato__Cultivator-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Tomato_Cultivator)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Derrick%20Kwan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/derrick-kwan-5644b52b9/)
+[![SwimCloud](https://img.shields.io/badge/SwimCloud-Profile-lightblue?style=for-the-badge)](https://www.swimcloud.com/swimmer/2799094/)
+
+---
+
+### ⚙️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 📈 Codeforces Stats
+### 📈 Codeforces Chart
 
 <p align="center">
-  <img src="https://cf.leed.at?id=Tomato_Cultivator" alt="Codeforces Chart" />
+  <img src="https://cf.leed.at?id=Tomato_Cultivator" alt="Codeforces rating graph" />
 </p>
-
-> Live rating chart from: [cf.leed.at](https://cf.leed.at)
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tomato-Cultivator&show_icons=true&theme=radical&hide=issues" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomato-Cultivator&layout=compact&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=paradoxicaly&show_icons=true&theme=tokyonight&hide=issues" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradoxicaly&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tomato-Cultivator&theme=rogue" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paradoxicaly&theme=tokyo-night" />
 </p>
 
 ---
 
 ### 🧠 Fun Fact
-
-I swim fast and code faster 💻🏊  
-Let’s connect and build cool stuff.
+I swim fast and code faster.
