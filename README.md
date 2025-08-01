@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Paradoxicaly 👋</h1>
+<h1 align="center">Hey, I'm Tomato_Cultivator 👋</h1>
 
 <p align="center">
-  🍅 Competitive Programmer • 🏊 Swimmer 
+  🍅 Comp Prog • 🏊 Swim!
 </p>
 
 ---
