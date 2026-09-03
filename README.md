@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Tomato_Cultivator 👋</h1>
+<h1 align="center">Hey, I'm Derrick</h1>
 
 <p align="center">
   🍅 Comp Prog • 🏊 Swim!
@@ -6,7 +6,7 @@
 
 ---
 
-### 🔥 What I'm into:
+### What I'm into:
 - Competitive Programming
 - Optimization and Theory
 - Open Source & CP tooling
@@ -14,7 +14,7 @@
 
 ---
 
-### 🌍 Find me online:
+### Find me online:
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Tomato__Cultivator-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Tomato_Cultivator)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Derrick%20Kwan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/derrick-kwan-5644b52b9/)
@@ -22,7 +22,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 📈 Codeforces Chart
+### Codeforces Chart
 
 <p align="center">
   <img src="https://cf.leed.at?id=Tomato_Cultivator" alt="Codeforces rating graph" />
@@ -41,7 +41,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=paradoxicaly&show_icons=true&theme=tokyonight&hide=issues" />
@@ -54,5 +54,5 @@
 
 ---
 
-### 🧠 Fun Fact
+### Fun Fact
 I swim fast and code faster.
