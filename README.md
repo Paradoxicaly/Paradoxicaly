@@ -1,4 +1,4 @@
-<h1 align="center">Derrick K</h1>
+<h1 align="center">Derrick Kwan</h1>
 
 Student researcher and developer at CAMS: computational biophysics, competitive programming, and swimming.
 
